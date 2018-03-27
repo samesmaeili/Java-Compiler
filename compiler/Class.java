@@ -6,7 +6,7 @@ public class Class {
 	
 	private String className;
 	private int classLine;
-	private String type; //whats this? public?
+	private String type; 
 	public ArrayList<String>constructorName = new ArrayList<>(20);
 	private ArrayList<Integer>constructorCounter = new ArrayList<>(20);
 	private ArrayList<String>constructorParameter = new ArrayList<>(20);
